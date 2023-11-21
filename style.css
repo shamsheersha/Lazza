@@ -1,0 +1,75 @@
+header{
+
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+
+}
+.firstimage {
+    max-width: 100%;
+    height: auto;
+
+  }
+  .image{
+    width: 80%;
+  }
+  .imagesone{
+    width: 150px;
+    padding-top:20px ;
+  }
+  .footerpart{
+    background-color:black;
+  }
+  .listcolor{
+    color: #be9509;
+  }
+  .listone{
+    padding-top: 20px;
+  }
+  .repo{
+    height: 0rem;
+    position: fixed;
+    border-radius: 0% 0 5% 5%;
+    transition: all ease 0.5s;
+    padding: 0 ;
+    overflow: hidden;
+    
+  }
+  .count{
+   
+    transition: all ease 0.7s;
+  }
+ @media (max-width:600px) {
+  .bb{
+    width: 4rem;
+  }
+ }
+ .whatsapp{
+  transform: translateY(-7rem);
+ }
+ .lasttext{
+  font-size: 16px;
+  line-height: 24px;
+  padding-bottom: 20px;
+  font-family: "Open Sans Condensed", sans-serif;
+  text-align: left;
+  margin-left: 30px;
+ 
+ }
+ .lastdiv{
+  background-color: black;
+  height: 90px;
+ }
+ .hr{
+    color: white;
+ }
+ .iceclub{
+    font-weight: -20;
+    
+ }
+ .nav-item :hover{
+  cursor: pointer;
+ }
+ .icons :hover{
+  cursor: pointer;
+ }
